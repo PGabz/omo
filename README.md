@@ -1,2 +1,2 @@
 # omo
-Cryptotwitter
+This is a word used to express uncertainty
